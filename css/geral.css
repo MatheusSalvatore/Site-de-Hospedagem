@@ -1,0 +1,15 @@
+/* Geral */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Orbitron', 'Exo 2';
+    height: 100dvh;
+    background: linear-gradient(135deg, #011b2f 0%, #002a45 50%, #003f66 100%);
+    background-repeat: no-repeat;
+    color: #fff;
+}
